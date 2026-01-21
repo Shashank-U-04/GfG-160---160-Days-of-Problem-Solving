@@ -1,4 +1,4 @@
-﻿# GFG 160 Problems
+﻿# GFG 160 Problems - (1/160)
 
 This repository contains solutions to **GeeksforGeeks 160 DSA problems**, organized topic-wise.
 

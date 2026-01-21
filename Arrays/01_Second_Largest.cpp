@@ -1,4 +1,7 @@
-﻿#include <limits.h>
+﻿// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+#include <limits.h>
 
 int getSecondLargest(int *arr, int n) {
     int largest = INT_MIN;
