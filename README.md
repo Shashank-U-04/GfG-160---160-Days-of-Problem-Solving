@@ -1,6 +1,6 @@
 ﻿# 🚀 GFG 160 - 160 Days of Problem Solving
 
-![Progress](https://img.shields.io/badge/Progress-2%2F160-brightgreen?style=flat)
+![Progress](https://img.shields.io/badge/Progress-3%2F160-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
@@ -30,6 +30,7 @@
 |---|---------|------------|----------|
 | 01 | Second Largest Element | Easy | [View](./Arrays/01_Second_Largest.cpp) |
 | 02 | Move All Zeroes to End | Easy | [View](./Arrays/02_Move_All_Zeroes_to_End.cpp) |
+| 03 | Reverse an Array | Easy | [View](./Arrays/03_Reverse_an_Array.cpp) |
 
 ---
 
