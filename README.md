@@ -58,7 +58,6 @@ Each solution file includes:
 ## 🛠️ Language & Tools
 
 - **Language:** C++
-- **IDE:** VS Code
 - **Platform:** [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ---
