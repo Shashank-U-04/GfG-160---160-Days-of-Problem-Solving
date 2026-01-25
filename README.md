@@ -2,7 +2,6 @@
 
 ![Progress](https://img.shields.io/badge/Progress-5%2F160-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 > A comprehensive collection of solutions to **GeeksforGeeks 160 DSA problems**, organized topic-wise with detailed explanations and optimal approaches.
 
