@@ -64,6 +64,10 @@ Each solution file includes:
 
 ## 📬 Connect
 
+- 📧 **Email:** shashank.u.shashu1359@gmail.com
+- 💼 **LinkedIn:** [Shashank U](https://www.linkedin.com/in/shashank-u-016b54330/)
+- 🧑‍💻 **GitHub:** [Shashank-U-04](https://github.com/Shashank-U-04)
+
 If you find this helpful, consider giving it a ⭐!
 
 ---
