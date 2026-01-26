@@ -1,6 +1,6 @@
 ﻿# 🚀 GFG 160 - 160 Days of Problem Solving
 
-![Progress](https://img.shields.io/badge/Progress-5%2F160-brightgreen?style=flat)
+![Progress](https://img.shields.io/badge/Progress-6%2F160-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus)
 
 > A comprehensive collection of solutions to **GeeksforGeeks 160 DSA problems**, organized topic-wise with detailed explanations and optimal approaches.
@@ -32,6 +32,7 @@
 | 03 | Reverse an Array | Easy | [View](./Arrays/03_Reverse_an_Array.cpp) |
 | 04 | Rotate Array | Medium | [View](./Arrays/04_Rotate_Array.cpp) |
 | 05 | Next Permutation | Medium | [View](./Arrays/05_Next_Permutation.cpp) |
+| 06 | Majority Element (More Than n/3) | Medium | [View](./Arrays/06_Majority_Element_More_Than_n_3.cpp) |
 
 ---
 
