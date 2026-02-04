@@ -1,6 +1,6 @@
 ﻿# 🚀 GFG 160 - 160 Days of Problem Solving
 
-![Progress](https://img.shields.io/badge/Progress-9%2F160-brightgreen?style=flat)
+![Progress](https://img.shields.io/badge/Progress-10%2F160-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus)
 
 > A comprehensive collection of solutions to **GeeksforGeeks 160 DSA problems**, organized topic-wise with detailed explanations and optimal approaches.
@@ -36,6 +36,7 @@
 | 07 | Stock Buy and Sell – Multiple Transaction Allowed | Medium | [View](./Arrays/07_Stock_Buy_and_Sell.cpp) |
 | 08 | Stock Buy and Sell – Max one Transaction Allowed | Easy | [View](./Arrays/08_Stock_Buy_and_Sell_Max_One_Transaction.cpp) |
 | 09 | Minimize the Heights II | Medium | [View](./Arrays/09_Minimize_the_Heights_II.cpp) |
+| 10 | Kadane's Algorithm | Medium | [View](./Arrays/10_Kadanes_Algorithm.cpp) |
 
 ---
 
