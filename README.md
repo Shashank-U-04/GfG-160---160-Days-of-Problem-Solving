@@ -1,6 +1,6 @@
 ﻿# 🚀 GFG 160 - 160 Days of Problem Solving
 
-![Progress](https://img.shields.io/badge/Progress-12%2F160-brightgreen?style=flat)
+![Progress](https://img.shields.io/badge/Progress-13%2F160-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus)
 
 > A comprehensive collection of solutions to **GeeksforGeeks 160 DSA problems**, organized topic-wise with detailed explanations and optimal approaches.
@@ -39,6 +39,7 @@
 | 10 | Kadane's Algorithm | Medium | [View](./Arrays/10_Kadanes_Algorithm.cpp) |
 | 11 | Maximum Product Subarray | Medium | [View](./Arrays/11_Maximum_Product_Subarray.cpp) |
 | 12 | Max Circular Subarray Sum | Hard | [View](./Arrays/12_Max_Circular_Subarray_Sum.cpp) |
+| 13 | Smallest Positive Missing | Medium | [View](./Arrays/13_Smallest_Positive_Missing.cpp) |
 
 ---
 
