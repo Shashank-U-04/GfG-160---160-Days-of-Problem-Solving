@@ -12,10 +12,54 @@ Follow these steps when the user provides a new problem to add:
 
 ## 2. Create the Solution File
 - Create `Arrays/XX_Problem_Name.cpp` (replace XX with problem number, use underscores in name)
-- Include: problem description, examples, constraints, company tags, topic tags
-- Include: detailed approach explanation
-- Include: clean, well-commented solution code
-- Include: time and space complexity analysis
+- Use the following file template to ensure consistency:
+
+```cpp
+/*
+ * ============================================================================
+ * GFG 160 - Problem XX: [Problem Name]
+ * ============================================================================
+ * Difficulty: [Difficulty]
+ * Topic: [Topics]
+ * 
+ * Problem Link: [Link]
+ * ============================================================================
+ * 
+ * Problem Description:
+ * [Paste Problem Description Here]
+ * 
+ * Note: [Notes/Constraints]
+ * 
+ * Examples:
+ *   Input: ...
+ *   Output: ...
+ *   Explanation: ...
+ * 
+ * Constraints:
+ *   - [Constraint 1]
+ *   - [Constraint 2]
+ * 
+ * ============================================================================
+ * Approach:
+ * - [Step 1]
+ * - [Step 2]
+ * 
+ * Time Complexity:  O(N)
+ * Space Complexity: O(1)
+ * ============================================================================
+ */
+
+#include <vector>
+#include <algorithm>
+#include <iostream>
+
+using namespace std;
+
+class Solution {
+  public:
+    // ... solution code ...
+};
+```
 
 ## 3. Update README.md
 - Update the progress badge (e.g., `5%2F160` → `6%2F160`)
